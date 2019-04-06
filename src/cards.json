@@ -1,0 +1,82 @@
+[
+    {
+    "id": 1,
+    "name": "Thor",
+    "image": "https://usercontent2.hubstatic.com/9047561.jpg"
+    },
+    {
+    "id": 2,
+    "name": "Captain America",
+    "image": "https://secure.img2-fg.wfcdn.com/im/96871681/compr-r85/2361/23610083/marvel-comics-captain-america-classic-wall-decal.jpg"
+    },
+    {
+    "id": 3,
+    "name": "Spider Man",
+    "image": "https://www.writeups.org/wp-content/uploads/Spider-Man-Marvel-Comics-Peter-Parker-Profile.jpg"
+    },
+    {
+    "id": 4,
+    "name": "Wolverine",
+    "image": "https://cdn.shopify.com/s/files/1/1079/0376/products/mMwIGl.jpg?v=1503107186"
+    },
+    {
+    "id": 5,
+    "name": "Black Panther",
+    "image": "http://mindbenderent.com/blog/wp-content/uploads/2014/09/Panther.jpeg"
+    },
+    {
+    "id": 6,
+    "name": "Storm",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61PZy8OtoVL._SX425_.jpg"
+    },
+    {
+    "id": 7,
+    "name": "Black Widow",
+    "image": "https://i.pinimg.com/originals/5c/3e/8b/5c3e8b927c99f4d5c146cd1c48b4c107.jpg"
+    },
+    {
+    "id": 8,
+    "name": "Falcon",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51-8yTqWonL._SX425_.jpg"
+    },
+    {
+    "id": 9,
+    "name": "Thanos",
+    "image": "https://comiconverse.com/wp-content/uploads/2016/02/thanos-ron-lim.png"
+    },
+    {
+    "id": 10,
+    "name": "Hulk",
+    "image": "https://www.writeups.org/wp-content/uploads/Savage-Hulk-Marvel-Comics-iconic-h6.jpg"
+    },
+    {
+    "id": 11,
+    "name": "Jean Grey",
+    "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/3/3a/Phoenix.JPG/revision/latest?cb=20121217005343"
+    },
+    {
+    "id": 12,
+    "name": "Doctor Strange",
+    "image": "https://vignette.wikia.nocookie.net/comic-books-in-the-media/images/d/df/Dr._Strange_otr.jpeg/revision/latest?cb=20150730054827"
+    },
+    {
+    "id": 13,
+    "name": "Iron Man",
+    "image": "https://allnewcomics.com/wp-content/uploads/2016/01/ironmanclassic.jpg"
+    },
+    {
+    "id": 14,
+    "name": "Rogue",
+    "image": "https://i.pinimg.com/originals/b2/4f/78/b24f7858fe5b7ed6d8eb43976084dd74.jpg"
+    },
+    {
+    "id": 15,
+    "name": "Mystique",
+    "image": "https://i.pinimg.com/originals/83/de/17/83de17bec930c0fec5f61117081b1653.jpg"
+    },
+    {
+    "id": 16,
+    "name": "Magneto",
+    "image": "https://www.assignmentx.com/wp-content/uploads/2011/06/magneto.jpg"
+    }
+]
